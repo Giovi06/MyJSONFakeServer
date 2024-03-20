@@ -1,10 +1,20 @@
 {
     "SoldProductsList": [
         {
-            "SoldProductsList": {
-                "Id": "1313",
-                "quantity": "2"
-            },
+            "SoldProductsList": [
+                {
+                    "Id": "1313",
+                    "quantity": "2"
+                },
+                {
+                    "Id": "1314",
+                    "quantity": "12"
+                },
+                {
+                    "Id": "1315",
+                    "quantity": "10"
+                }
+            ],
             "payment": {
                 "method": "cash",
                 "Amount": 129.86
