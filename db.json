@@ -1,32 +1,40 @@
 {
     "SoldProductsList": [
         {
-            "Id": "1313",
-            "quantity": "2"
-        },
-        {
-            "Id": "2424",
-            "quantity": "1"
-        },
-        {
-            "Id": "3737",
-            "quantity": "3"
-        },
-        {
-            "Id": "373",
-            "quantity": "3"
-        },
-        {
-            "Id": "377",
-            "quantity": "3"
-        },
-        {
-            "Id": "3724",
-            "quantity": "3"
+            "SoldProductsList": {
+                "Id": "1313",
+                "quantity": "2"
+            },
+            "payment": {
+                "method": "cash",
+                "Amount": 129.86
+            }
         }
     ],
-    "payment": {
-        "method": "cash",
-        "Amount": 129.86
-    }
+    "GetAllProducts": [
+        {
+            "Id": 1,
+            "Name": "Product 1",
+            "Price": 9.99,
+            "Description": "This is product 1",
+            "SupplierId": 1,
+            "Stock": 10
+        },
+        {
+            "Id": 2,
+            "Name": "Product 2",
+            "Price": 19.99,
+            "Description": "This is product 2",
+            "SupplierId": 2,
+            "Stock": 5
+        },
+        {
+            "Id": 3,
+            "Name": "Product 3",
+            "Price": 29.99,
+            "Description": "This is product 3",
+            "SupplierId": 1,
+            "Stock": 8
+        }
+    ]
 }
