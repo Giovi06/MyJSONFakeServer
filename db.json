@@ -1,6 +1,4 @@
 {
-    "name": "John Doe",
-    "email": "johndoe@example.com",
     "address": {
         "street": "123 Main St",
         "city": "New York",
