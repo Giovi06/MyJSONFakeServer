@@ -1,13 +1,12 @@
 {
-    "address": {
-        "street": "123 Main St",
-        "city": "New York",
-        "state": "NY",
-        "zip": "10001"
-    },
-    "hobbies": [
-        "reading",
-        "coding",
-        "traveling"
-    ]
+    "SoldProductsList": [
+        {
+            "Id": "",
+            "quantity": ""
+        }
+    ],
+    "payment": {
+        "method": "",
+        "Amount": 12
+    }
 }
