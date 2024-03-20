@@ -1,12 +1,32 @@
 {
     "SoldProductsList": [
         {
-            "Id": "",
-            "quantity": ""
+            "Id": "1313",
+            "quantity": "2"
+        },
+        {
+            "Id": "2424",
+            "quantity": "1"
+        },
+        {
+            "Id": "3737",
+            "quantity": "3"
+        },
+        {
+            "Id": "373",
+            "quantity": "3"
+        },
+        {
+            "Id": "377",
+            "quantity": "3"
+        },
+        {
+            "Id": "3724",
+            "quantity": "3"
         }
     ],
     "payment": {
-        "method": "",
-        "Amount": 12
+        "method": "cash",
+        "Amount": 129.86
     }
 }
